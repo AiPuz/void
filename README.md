@@ -1,22 +1,20 @@
-# Welcome to Void.
+# 欢迎来到 Void
 
+Void 是开源的 Cursor 替代品。
 
-Void is the open-source Cursor alternative. 
+如果你是新来的，欢迎！可以查看我们的 [项目板](https://github.com/orgs/voideditor/projects/2/views/3)，了解最紧迫的待解决问题，并查看 [`CONTRIBUTING.md`](https://github.com/voideditor/void/blob/main/CONTRIBUTING.md) 以获取构建和运行 Void 的说明。
 
-If you're new, welcome! Feel free to check out our [Project board](https://github.com/orgs/voideditor/projects/2/views/3) for the most pressing Issues to work on, and see [`CONTRIBUTING.md`](https://github.com/voideditor/void/blob/main/CONTRIBUTING.md) for instructions on building and running Void.
+此仓库包含 Void 的完整源代码。我们有一个 [官方发布下载候补名单](https://voideditor.com/email)，但你可以现在就构建和开发 Void。
 
-This repo contains the full sourcecode for Void. We have a [waitlist](https://voideditor.com/email) for downloading the official release, but you can build and develop Void right now.
+## 贡献
 
-## Contributing
+要构建和运行 Void，请参阅 [`CONTRIBUTING.md`](https://github.com/voideditor/void/blob/main/CONTRIBUTING.md)。
 
-To build and run Void, see [`CONTRIBUTING.md`](https://github.com/voideditor/void/blob/main/CONTRIBUTING.md).
+## 参考
 
-## Reference
+Void 是从 [vscode](https://github.com/microsoft/vscode) 仓库派生的。
 
-Void is a fork of the of [vscode](https://github.com/microsoft/vscode) repository.
+我们整理了一些有用的链接，请参阅 [`VOID_USEFUL_LINKS.md`](https://github.com/voideditor/void/blob/main/VOID_USEFUL_LINKS.md)。
 
-For some useful links we've compiled see [`VOID_USEFUL_LINKS.md`](https://github.com/voideditor/void/blob/main/VOID_USEFUL_LINKS.md).
-
-
-## Support
-Feel free to reach out in our [Discord](https://discord.gg/PspNkKG5wt) or contact us via email.
+## 支持
+请随时加入我们的 [Discord](https://discord.gg/PspNkKG5wt) 社区或通过电子邮件联系我们。
